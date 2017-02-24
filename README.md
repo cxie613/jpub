@@ -1,2 +1,2 @@
 # jpub
-Just a public repository
+Branched from jpub-master for working
